@@ -1,2 +1,2 @@
 #!/bin/bash
-dfhdfjgjg,hhf
+echo 'hello user' > 1-hello_you
